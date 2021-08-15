@@ -1,0 +1,29 @@
+,0,
+0,response_id,Response ID
+1,year_submitted_survey_2,"Year Survey 2, the follow up survey, was submitted"
+2,months_owned,"Months PEV has been owned for, or months owned from purchase date to date ownership ceased "
+3,year_make_model,Yea Make and Model of PEV
+4,electric_range,US EPA Electric Driving Range of PEV
+5,ev_type,Vehicle Type
+6,discontinuance,"Whether respondents no longer own their original PEV but have another PEV (continued), or no longer own any PEVs (Discontinued), or whether they own their original PEV"
+7,surveyed_age,Age of survey taker
+8,surveyed_gender,Gender of survey taker
+9,dist_1,One way commute distance of main car
+10,trips_greater_200,Number of trips over 200 miles in the past 12 months prior to taking the survey
+11,safety_satisfaction,"Satisfaction with original PEV Safety (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+12,comfort_satisfaction,"Satisfaction with original PEV Comfort (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+13,refuel_recharge_satisfaction,"Satisfaction with original PEV Refuelling/recharging costs  (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+14,performance_satisfaction,"Satisfaction with original PEV Environmental Impacts  (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+15,env_impact_satisfaction,"Satisfaction with original PEV Performance  (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+16,purch_price_satisfaction,"Satisfaction with original PEV Vehicle Purchase Price (including rebates, discounts, etc.)  (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+17,reliability_satisfaction,"Satisfaction with original PEV Reliability  (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+18,range_satisfaction,"Satisfaction with original PEV Electric Driving Range  (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+19,charge_access_satisfaction,"Satisfaction with original PEV Convenience of Charging  (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+20,adas_satisfaction,"Satisfaction with original PEV Driving Assistance Features  (1= Very Dissatisfied, 2= Slightly Dissastisfied, 3= Indifferent, 4=Slighly Satisfied, 5= Very Satisfied)"
+21,household_income,Household Income
+22,home_charge_type,Whether respondents had charging at home at the time of the original survey 
+23,work_charge_type,Whether respondents had charging at work at the time of the original survey 
+24,highest_charge_used,Highest level of charging used by respondents for public charging at the time of the original survey 
+25,backup_vehicle_mpg,MPG of the second vehicle in the household
+26,finance_type,Whether the vehicles is leased or purchased
+27,last_page,The last page survey takers go to (complete survey=40)
